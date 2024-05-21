@@ -1,4 +1,4 @@
-## Procedurally generated mountains side project.
+## Procedurally generated mountains side project
 
 This project was made primarily to experiment with [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise) and OpenGL. I have always had an interest in learning more about procedural generation.
 
